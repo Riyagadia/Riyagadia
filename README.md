@@ -1,4 +1,4 @@
--## About Me
+### About Me
 I'm Riya Gadia, an engineer with a background in Electronics and Communication Engineering, which I completed in 2017. As a fresh graduate, I am passionate about transitioning into the field of data science.
 
 ### Professional Background
